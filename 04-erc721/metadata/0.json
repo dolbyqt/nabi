@@ -1,0 +1,12 @@
+{
+    "name": "DolbCoins",
+    "description": "Dolbing Every NFT",
+    "symbol": "DLB",
+    "image": "https://imgur.com/a/BmEqRbG.jpg",
+    "attributes": [
+        {
+            "trait_type": "Pokemon",
+            "value": "Pikachu"
+        }
+    ]
+}
